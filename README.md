@@ -1,10 +1,16 @@
 # COMP313_Assignment1
+
 Name: Daniel Pullon
+
 Course: COMP313
+
 Assignment: 1
+
 Title: Rollaball
 
+
 **VIDEO LINK**
+
 
 Game Description
 
